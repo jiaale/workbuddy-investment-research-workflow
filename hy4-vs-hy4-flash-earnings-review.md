@@ -2,9 +2,9 @@
 
 In the November 2026 r/LocalLLaMA AMA, the Tencent Hy team said that long reasoning chains were a known issue for Hy4 and that it used reinforcement learning to shorten them in Hy4 flash. For an office task, the useful question is how soon you get an answer you can verify. A faster draft still costs time if you have to reopen every source to fix the reporting periods.
 
-WorkBuddy provides a way to compare the two models on the same task. Give each model the same two filings, request the same report, and check the output against the same answer key. Tencent confirmed that Hy4 flash was available in WorkBuddy at launch. Look for both models in your current WorkBuddy model selector or check the documented custom-model setup for your edition. [AMA reply](https://www.reddit.com/r/LocalLLaMA/comments/1y15w4a/comment/19sxgnoy1ekyq/) · [Tencent's Hy4 flash announcement](https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/) · [WorkBuddy model configuration](https://www.tencentcloud.com/document/product/1316/84496)
+This guide is for the international WorkBuddy desktop client, available from [workbuddy.ai](https://www.workbuddy.ai/). Give each model the same two filings, request the same report, and check the output against the same answer key. Tencent's launch announcement describes a WorkBuddy rollout. Check whether both Hy4 and Hy4 flash are available to your international account before starting. The desktop client also supports compatible custom model endpoints when your provider and account support the required file tools. [AMA reply](https://www.reddit.com/r/LocalLLaMA/comments/1y15w4a/comment/19sxgnoy1ekyq/) · [Tencent's Hy4 flash announcement](https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/) · [International WorkBuddy model configuration](https://www.workbuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Model-Configuration)
 
-**Test status.** The figures below were checked against Apple's public SEC filings. The two WorkBuddy runs are pending, so there are no measured model timings or scores. The maintainer works on Tencent WorkBuddy growth.
+**Test status.** The figures below were checked against Apple's public SEC filings. The international WorkBuddy comparison is pending. Model availability for the test account, timings and scores have yet to be verified. The maintainer works on Tencent WorkBuddy growth.
 
 ## Use two filings with one reporting-period trap
 
@@ -18,7 +18,7 @@ The statements of operations show a three-month column alongside year-to-date co
 ## Run the same task twice
 
 1. Put the two filings in a clean local folder. Keep the answer key below out of that folder.
-2. Start a fresh WorkBuddy task for each model. Choose **Hy4 flash** or **Hy4** manually. Record the model label, WorkBuddy version and provider. Use the same provider, input files and tool permissions for both runs.
+2. Start a fresh task for each model in the international WorkBuddy desktop client. Choose **Hy4 flash** or **Hy4** manually. Use the same account, provider, input files and tool permissions. Record the app version, account edition, model labels and provider. If either model is unavailable, record that and leave the comparison pending.
 3. Paste the prompt below. Time each run from submission until the finished brief is available. Keep the first output and record any corrective follow-up separately.
 4. Audit the brief against the answer key. For a stronger comparison, run three pairs and alternate which model goes first. Keep each fresh task isolated from earlier results. Report individual times and the median for each model.
 
