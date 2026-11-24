@@ -6,6 +6,12 @@ A reusable prompt and report-template kit for using a desktop AI workspace to re
 
 > **Important:** This repository is for research and education. It does not provide investment advice, price targets, trade execution, or guaranteed real-time market data.
 
+## WorkBuddy Quickstarts
+
+**[Turn two Apple 10-Qs into an auditable earnings brief](hy4-vs-hy4-flash-earnings-review.md).** Download the two filings, run the same prompt with Hy4 and Hy4 flash, and verify the figures and page references against an answer key. The walkthrough includes measured completion times and a cash flow citation error you can check in both PDFs.
+
+[Get WorkBuddy](https://www.tencentcloud.com/act/pro/workbuddy?lang=en&pg=&fromSource=intl.25922184.25922184.25922184&utm_medium=cpc&utm_id=intl.25922184.25922184.25922184)
+
 ## Why this workflow exists
 
 Asking an AI assistant “What stock should I buy?” produces an answer that is difficult to verify. This kit uses a different pattern:
