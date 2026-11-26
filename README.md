@@ -10,7 +10,7 @@ A reusable prompt and report-template kit for using a desktop AI workspace to re
 
 **[Turn two Apple 10-Qs into an auditable earnings brief](hy4-vs-hy4-flash-earnings-review.md).** Download the two filings, run the same prompt with Hy4 and Hy4 flash, and verify the figures and page references against an answer key. The walkthrough includes measured completion times and a cash flow citation error you can check in both PDFs.
 
-[Get WorkBuddy](https://www.tencentcloud.com/act/pro/workbuddy?lang=en&pg=&fromSource=intl.25922184.25922184.25922184&utm_medium=cpc&utm_id=intl.25922184.25922184.25922184)
+[Get WorkBuddy](https://www.tencentcloud.com/act/pro/workbuddy?fromSource=intl.25923850.25923850.25923850&utm_medium=cpc&utm_id=intl.25923850.25923850.25923850)
 
 ## Why this workflow exists
 
