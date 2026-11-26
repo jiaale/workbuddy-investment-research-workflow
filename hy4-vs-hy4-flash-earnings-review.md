@@ -4,7 +4,7 @@ Use **WorkBuddy International** to turn two public Apple filings into a Markdown
 
 [Download the filings](#use-two-filings-with-one-reporting-period-trap) · [Copy the prompt](#run-the-same-task-twice) · [Check the answer key](#check-the-output-against-the-filings) · [See the measured results](#measured-results-on-workbuddy-international)
 
-[Get WorkBuddy](https://www.tencentcloud.com/act/pro/workbuddy?lang=en&pg=&fromSource=intl.25922184.25922184.25922184&utm_medium=cpc&utm_id=intl.25922184.25922184.25922184)
+[Get WorkBuddy](https://www.tencentcloud.com/act/pro/workbuddy?fromSource=intl.25923850.25923850.25923850&utm_medium=cpc&utm_id=intl.25923850.25923850.25923850)
 
 **Disclosure.** The maintainer works on Tencent WorkBuddy growth.
 
